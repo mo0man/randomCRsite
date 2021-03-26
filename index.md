@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="favicon.ico"/>
 
-  <title>Table of Contents</title>
+  <title>New topic</title>
   <meta name="description" content="" /> 
   <meta name="keywords" content="">
 
@@ -21,11 +21,11 @@
 
   <!-- Twitter Card data -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Table of Contents">
+  <meta name="twitter:title" content="New topic">
   <meta name="twitter:description" content="">
 
   <!-- Open Graph data -->
-  <meta property="og:title" content="Table of Contents" />
+  <meta property="og:title" content="New topic" />
   <meta property="og:type" content="article" />
   <meta property="og:description" content="" />
   <meta property="og:site_name" content="Nisei CR" /> 
@@ -116,19 +116,19 @@
 	  
       <div role="tabpanel" class="tab-pane active" id="contents">
         <div id="toc" class="tree-container unselectable"
-            data-url="_toc.json"
+            
             data-openlvl="1"
         >
-            
+            <ul><li id="Newtopic" ><a href="Newtopic.html">New topic</a></li></ul>
         </div>
       </div>  <!-- /contents-->
       
       <div role="tabpanel" class="tab-pane" id="index">
         <div id="keywords" class="tree-container unselectable"
-            data-url="_keywords.json"
+            
             data-openlvl="1"
         >
-            
+            <ul></ul>
         </div>
       </div>  <!-- /index-->
       
@@ -163,9 +163,9 @@
 
     <article>
         <div id="topic-content" class="container-fluid" 
-		  data-hnd-id="TableofContents"
-		  data-hnd-context="1"
-		  data-hnd-title="Table of Contents"
+		  data-hnd-id="Newtopic"
+		  data-hnd-context="0"
+		  data-hnd-title="New topic"
 		>
             
                 <div class="navigation">
@@ -173,36 +173,18 @@
                         
                     </ol>
                     <div class="nav-arrows">
-                        <div class="btn-group btn-group-xs" role="group"><a class="btn btn-default" href="Index.html" title="Index" role="button"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span></a><a class="btn btn-default" href="CardTypes.html" title="C ard Types" role="button"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></div>
+                        
                     </div>
                 </div> 
             
 
             <a id="main-content"></a>
 
-            <h2>Table of Contents</h2>
+            <h2>New topic</h2>
 
             <div class="main-content">
                 
-<p class="rvps36"><span class="rvts33">S</span><span class="rvts34"> </span><span class="rvts27">ummary of Changes</span></p>
-<p class="rvps4"><span class="rvts11"><br/></span></p>
-<p class="rvps37"><span class="rvts11">2.14.</span></p>
-<p class="rvps4"><span class="rvts11"><br/></span></p>
-<p class="rvps37"><span class="rvts46">I</span><span class="rvts27"> nfluence Cost</span></p>
-<p class="rvps2"><span class="rvts6"><br/></span></p>
-<p class="rvps38"><span class="rvts59">T</span><span class="rvts41"> </span><span class="rvts27">able of Contents</span></p>
-<p class="rvps39"><span class="rvts11">2.15.</span></p>
-<p class="rvps40"><span class="rvts25">C</span><span class="rvts26"> </span><span class="rvts27">ard Type</span></p>
-<p class="rvps2"><span class="rvts6"><br/></span></p>
-<ol style="text-indent: 0px; padding: 0; margin: 0 0 0 68px; list-style-position: outside; list-style-type: decimal;">
- <li value="1" style="margin-left: 0px; text-indent: 0px" class="rvps41"><span class="rvts60">G</span><span class="rvts61">&nbsp;</span></li>
-</ol>
-<p class="rvps42"><span class="rvts62">ame Concepts</span></p>
-<p class="rvps43"><span class="rvts11">2.16.</span></p>
-<p class="rvps43"><span class="rvts11">2.17.</span></p>
-<p class="rvps44"><span class="rvts33">S</span><span class="rvts26"> </span><span class="rvts27">ubtypes</span><span class="rvts28"> </span><span class="rvts59">T</span><span class="rvts41"> </span><span class="rvts27">ext Box</span></p>
-<p class="rvps45"><span class="rvts6"></span><span class="rvts6"></span></p>
-<p class="rvps30" style="clear: both;"><span class="rvts50">Created with the Personal Edition of HelpNDoc: </span><a class="rvts51" href="https://www.helpndoc.com/help-authoring-tool">Free help authoring environment</a></p>
+<p class="rvps2" style="clear: both;"><span class="rvts6">Created with the Personal Edition of HelpNDoc: </span><a class="rvts7" href="https://www.helpndoc.com/feature-tour">Full-featured Help generator</a></p>
 
             </div>
             
